@@ -43,13 +43,14 @@ The exploratory analysis revealed distinct characteristics of customers likely t
 ---
 
 ## 📁 Repository Structure
+```bash
 ├── data/
 │   └── churn_data_set_sample.csv # Input dataset (a sample or version of the data)
 ├── notebook/
 │   └── customer_churn_analysis.ipynb # The main analysis and modeling notebook
 ├── README.md
 └── LICENCE
-
+```
 ---
 
 ## 🚀 Getting Started
